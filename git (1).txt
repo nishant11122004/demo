@@ -1,0 +1,13 @@
+git config --global user.name "Your Name"
+git config --global user.email "your_email@example.com"
+
+
+git branch branch_name
+
+git checkout -b branch_name (new)
+
+git branch (list)
+
+git checkout branch_name (existing)
+
+git merge branch_name
